@@ -20,6 +20,30 @@
 Changelog
 ---------
 
+2.1.0
+.....
+
+Features
+~~~~~~~~
+
+* ``Add back ProxyFix Middleware for flask app builder (#49942)``
+
+Misc
+~~~~
+
+* ``Bump the fab-ui-package-updates group across 1 directory with 4 updates (#50312)``
+* ``Bump the fab-ui-package-updates group across 1 directory with 4 updates (#50035)``
+
+Doc-only
+~~~~~~~~
+
+* ``docs: Update oauth keycloak example with new security manager (#50284)``
+
+.. Below changes are excluded from the changelog. Move them to
+   appropriate section above if needed. Do not delete the lines(!):
+   * ``Update description of provider.yaml dependencies (#50231)``
+   * ``Avoid committing history for providers (#49907)``
+
 2.0.2
 .....
 
